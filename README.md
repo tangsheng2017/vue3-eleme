@@ -1,4 +1,4 @@
-# eleme
+# vue3-eleme
 
 ## Project setup
 ```
