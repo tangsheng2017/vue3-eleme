@@ -17,11 +17,11 @@
 
 <script>
 export default {
-  name:'tabbar',
-  props:{
+  name: "tabbar",
+  props: {
     data: Array
-  },
-}
+  }
+};
 </script>
 
 <style scoped>

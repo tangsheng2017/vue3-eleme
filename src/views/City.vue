@@ -60,7 +60,6 @@ export default {
     getCityInfo() {
       this.$axios("/api/posts/cities")
         .then(res => {
-          console.log(res)
           this.cityInfo = res.data;
 
           // 处理key 计算key

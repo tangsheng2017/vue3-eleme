@@ -47,7 +47,6 @@ export default {
   justify-content: space-between;
 }
 .input_group input {
-  border: none;
   height: 100%;
   width: 60%;
   outline: none;
