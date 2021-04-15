@@ -171,8 +171,9 @@ export default {
 
 <style scoped>
 .filter_wrap {
+  width: 100%;
   background: #fff;
-  position: sticky;
+  position: fixed;
   top: 54px;
   z-index: 10;
 }
